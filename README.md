@@ -11,6 +11,10 @@ Python 3.7
 TensorFlow 2.4
 ```
 
-The standalone version of OPUS-Mut is hosted on [Baidu Drive](https://pan.baidu.com/s/13blkjz8pwDW_i1Mxv28sJg) with password `o6xo`. Three oligomer datasets (CASP14 (11), CAMEO-Homo (65), and CAMEO-Hetero (21)) and the protein-protein docking pose dataset Oligomer-Dock (75) are hosted on [Baidu Drive](https://pan.baidu.com/s/1Esb9_io-XlZMR1UlOXqCMA) with password `wnq4`.
+The standalone version of OPUS-Mut is hosted on [Baidu Drive](https://pan.baidu.com/s/13blkjz8pwDW_i1Mxv28sJg) with password `o6xo`. 
+
+Three datasets (CASP14, CAMEO60, and CAMEO65) with single peptide chain can be downloaded directly from [Here](https://github.com/thuxugang/opus_mut/blob/main/opus_mut_datasets.zip).
+
+Three oligomer datasets (CASP14 (11), CAMEO-Homo (65), and CAMEO-Hetero (21)) and the protein-protein docking pose dataset Oligomer-Dock (75) are hosted on [Baidu Drive](https://pan.baidu.com/s/1Esb9_io-XlZMR1UlOXqCMA) with password `wnq4`.
 
 
