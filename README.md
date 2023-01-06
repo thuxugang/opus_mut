@@ -11,7 +11,7 @@ Python 3.7
 TensorFlow 2.4
 ```
 
-The standalone version of OPUS-Mut is hosted on [Baidu Drive](https://pan.baidu.com/s/13blkjz8pwDW_i1Mxv28sJg) with password `o6xo`. 
+The standalone version of OPUS-Mut is hosted on [Baidu Drive](https://pan.baidu.com/s/13blkjz8pwDW_i1Mxv28sJg) with password `o6xo`. It can also be downloaded from [Here](https://drive.google.com/file/d/1ZpFjghkqP5vsIpOk1bYwFyhci7FeNPPD/view?usp=sharing).
 
 Three datasets (CASP14, CAMEO60, and CAMEO65) with single peptide chain can be downloaded directly from [Here](https://github.com/thuxugang/opus_mut/blob/main/opus_mut_datasets.zip).
 
