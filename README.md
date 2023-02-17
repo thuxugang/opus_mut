@@ -1,6 +1,12 @@
 # OPUS-Mut
 
+## Abstract for JCTC paper
 Predicting the effect of protein mutation is crucial in many applications such as protein design, protein evolution, and genetic disease analysis. Structurally, the mutation is basically the replacement of the side chain of a particular residue. Therefore, accurate side-chain modeling is useful in studying the effect of mutation. Here, we propose a computational method, namely OPUS-Mut, which significantly outperforms other backbone-dependent side-chain modeling methods including our previous method OPUS-Rota4. We evaluate OPUS-Mut by four case studies on Myoglobin, p53, HIV-1 protease, and T4 lysozyme. The results show that the predicted structures of side chains of different mutants are consistent well with their experimentally determined results. In addition, when the residues with significant structural shifts upon the mutation are considered, it is found that the extent of the predicted structural shift of these affected residues can be correlated reasonably well with the functional changes of the mutant measured by experiments. OPUS-Mut can also help one to identify the harmful and benign mutations, and thus may guide the construction of a protein with relatively low sequence homology but with a similar structure.
+
+## Abstract for BIB paper
+Protein side chains are vitally important to many biological processes such as protein-protein interaction. In this study, we evaluate the performance of our previous released side-chain modeling method OPUS-Mut, together with some other methods, on three oligomer datasets, CASP14 (11), CAMEO-Homo (65), and CAMEO-Hetero (21). The results show that OPUS-Mut outperforms other methods measured by all residues or by the interfacial residues. We also demonstrate our method on evaluating protein-protein docking pose on a dataset Oligomer-Dock (75) created using the top 10 predictions from ZDOCK 3.0.2. Our scoring function correctly identifies the native pose as the top-1 in 45 out of 75 targets. Different from traditional scoring functions, our method is based on the overall side-chain packing favorableness in accordance with the local packing environment. It emphasizes the significance of side chains and provides a new and effective scoring term for studying protein-protein interaction.
+
+<img src="./images/figure.png" width="50%" height="50%"/>
 
 ## Usage
 
