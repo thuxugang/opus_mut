@@ -52,7 +52,7 @@ Three oligomer datasets (CASP14 (11), CAMEO-Homo (65), and CAMEO-Hetero (21)) an
   year={2022},
   publisher={Oxford University Press}
 }
-@article{xu2023opus1,
+@article{xu2022opus2,
   title={OPUS-Mut: Studying the Effect of Protein Mutation through Side-Chain Modeling},
   author={Xu, Gang and Wang, Qinghua and Ma, Jianpeng},
   journal={Journal of Chemical Theory and Computation},
